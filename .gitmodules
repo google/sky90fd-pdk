@@ -1,0 +1,45 @@
+# sky90fd_fd_pr
+[submodule "libraries/sky90fd_fd_pr/latest"]
+	path = libraries/sky90fd_fd_pr/latest
+	url = https://github.com/google/skywater-pdk-libs-sky90fd_fd_pr.git
+	branch = main
+	shallow = true
+
+# sky90fd_fd_sc_mcu7t5v0
+[submodule "libraries/sky90fd_fd_sc_mcu7t5v0/latest"]
+	path = libraries/sky90fd_fd_sc_mcu7t5v0/latest
+	url = https://github.com/google/skywater-pdk-libs-sky90fd_fd_sc_mcu7t5v0.git
+	branch = main
+	shallow = true
+
+# sky90fd_fd_sc_mcu9t5v0
+[submodule "libraries/sky90fd_fd_sc_mcu9t5v0/latest"]
+	path = libraries/sky90fd_fd_sc_mcu9t5v0/latest
+	url = https://github.com/google/skywater-pdk-libs-sky90fd_fd_sc_mcu9t5v0.git
+	branch = main
+	shallow = true
+
+# sky90fd_fd_bd_sram
+[submodule "libraries/sky90fd_fd_bd_sram/latest"]
+	path = libraries/sky90fd_fd_bd_sram/latest
+	url = https://github.com/google/skywater-pdk-libs-sky90fd_fd_bd_sram.git
+	branch = main
+	shallow = true
+
+# sky90fd_fd_io
+[submodule "libraries/sky90fd_fd_io/latest"]
+	path = libraries/sky90fd_fd_io/latest
+	url = https://github.com/google/skywater-pdk-libs-sky90fd_fd_io.git
+	branch = main
+	shallow = true
+
+# sky90fd_fd_ip_sram
+[submodule "macros/sky90fd_fd_ip_sram/latest"]
+	path = macros/sky90fd_fd_ip_sram/latest
+	url = https://github.com/google/skywater-pdk-ip-sky90fd_fd_ip_sram.git
+	branch = main
+	shallow = true
+
+[submodule "third_party/open-source-pdks"]
+	path = third_party/open-source-pdks
+	url = https://github.com/google/open-source-pdks.git
