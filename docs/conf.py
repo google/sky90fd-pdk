@@ -150,7 +150,7 @@ html_logo = "_static/sky90fd-pdk-logo-top.png"
 html_theme_options = {
     'nav_title': 'SkyWater SKY90FD PDK',
 
-    'color_primary': 'orange',
+    'color_primary': 'light-green',
     'color_accent': 'teal',
 
     # Set the repo location to get a badge with stats
