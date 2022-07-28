@@ -1,3 +1,4 @@
+.. include:: common.inc
 
 ***************************************************
 Welcome to SkyWater 90nm FDSOI PDK's documentation!
@@ -6,6 +7,7 @@ Welcome to SkyWater 90nm FDSOI PDK's documentation!
 .. toctree::
     :hidden:
 
+    Current Status <status>
     open-source-pdks/index
 
 .. warning::
