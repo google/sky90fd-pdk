@@ -70,7 +70,7 @@ The SKY90FD Process node technology stack consists of;
 If your needs extend beyond the standard included functionality in the `SKY90FD Process Node`_, please see `Contacting SkyWater`_ as they specializes in enabling production volume of process customization include `the addition of specialized materials like Nb, Ge, V2O5, Carbon Nanotubes <https://www.skywatertechnology.com/technology/>`_. Google and SkyWater continuing to explore new options to be included in the `SKY90FD Open Source PDK`_ and `SKY90FD Process Node`_ that enable new innovative solutions to traditional design problems.
 
 
-Typical usages of 130nm Process Nodes
+Typical usages of 90nm Process Nodes
 -------------------------------------
 
 
